@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "title":"Boxy7 T-shirt with Roll Sleeve",
+        "price":"50.00",
+        "image":"src/assets/images/shopy8.webp"
+    },
+    {
+        "id":"2",
+        "title":"Boxy64 T-shirt with Roll Sleeve",
+        "price":"20.00",
+        "image":"src/assets/images/shopy7.webp"
+    },
+    {
+        "id":"3",
+        "title":"Boxy7 T-shirt with Roll Sleeve",
+        "price":"30.00",
+        "image":"src/assets/images/shopy6.webp"
+    },
+    {
+        "id":"4",
+        "title":"Boxy7 T-shirt with Roll Sleeve",
+        "price":"100.00",
+        "image":"src/assets/images/shopy5.webp"
+    },
+    {
+        "id":"5",
+        "title":"Boxy2 T-shirt with Roll Sleeve",
+        "price":"200.00",
+        "image":"src/assets/images/shopy4.webp"
+    },
+    {
+        "id":"6",
+        "title":"Boxy5 T-shirt with Roll Sleeve",
+        "price":"700.00",
+        "image":"src/assets/images/shopy3.webp"
+    },
+    {
+        "id":"7",
+        "title":"Boxy9 T-shirt with Roll Sleeve",
+        "price":"90.00",
+        "image":"src/assets/images/shopi2.webp"
+    },
+    {
+        "id":"8",
+        "title":"Boxy78 T-shirt with Roll Sleeve",
+        "price":"80.00",
+        "image":"src/assets/images/item-cart-01.jpg"
+    }
+]

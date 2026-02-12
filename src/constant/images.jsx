@@ -1,6 +1,5 @@
 import banner_02 from "../assets/images/banner-02.jpg";
 import banner_07 from "../assets/images/banner-07.jpg";
-import banner_08 from "../assets/images/banner-08.jpg";
 import banner from "../assets/images/banner.webp";
 import bg_video_1 from "../assets/images/bg-video-01.jpg.webp";
 import blog_1 from "../assets/images/blog-01.jpg";
@@ -42,12 +41,9 @@ import shopItem5 from "../assets/images/shopy6.webp";
 import shopItem6 from "../assets/images/shopy7.webp";
 import shopItem7 from "../assets/images/shopy8.webp";
 import shopItem8 from "../assets/images/shop-item-09.jpg";
-
-export default {
-  banner,
+const allimg ={banner,
   banner_02,
   banner_07,
-  banner_08,
   bg_video_1,
   blog_1,
   blog_2,
@@ -87,5 +83,6 @@ export default {
   shopItem6,
   shopItem7,
   shopItem8,
-  visa,
-};
+  visa,}
+
+export default allimg;
