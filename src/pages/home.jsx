@@ -8,7 +8,7 @@ import Blog from "../component/Blog"
 import Footer from "../component/footer"
 function Home() {
     return(
-        <div className="">
+        <div className="relative">
             <MiniNav/>
             <Nav/>
             <Caroussel/>

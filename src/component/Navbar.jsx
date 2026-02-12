@@ -4,7 +4,7 @@ import { HiOutlineShoppingBag } from "react-icons/hi2";
 
 function Nav(params) {
     return (
-        <div className="w-full h-[80px] flex justify-around items-center">
+        <div className=" w-full h-[80px] flex justify-around items-center">
             <div className="text-[#252752] font-bold text-4xl">fashe <span className="text-[#E65540]">.</span></div>
             <div className="w-[600px] flex justify-between items-center text-gray-600">
                 <Link>Home</Link>
