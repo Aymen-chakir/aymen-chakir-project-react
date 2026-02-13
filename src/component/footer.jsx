@@ -3,7 +3,7 @@ import { IoLogoTwitter } from "react-icons/io";
 import { FaPinterest } from "react-icons/fa";
 import { FaGoogle } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa"
-function FooterFlex() {
+function Footer() {
     return (
         <div className="w-[full] h-[60vh]  justify-center items-center bg-[#F0F0F0]">
             <div className=" flex justify-around items-center w-[90%] h-[80%]">
@@ -66,4 +66,4 @@ function FooterFlex() {
     );
 }
 
-export default FooterFlex;
+export default Footer;

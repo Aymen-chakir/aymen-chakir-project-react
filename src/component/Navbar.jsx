@@ -17,9 +17,10 @@ function Nav(params) {
             </div>
             <div className="flex text-4xl   text-gray-600 justify-around w-[120px]">
                 <div>
-                    <Link>
-                                        <FaRegCircleUser />
+                    <Link to={'/sign'}>
+                        <FaRegCircleUser />
                     </Link>
+
                 </div>
                 <div className="border-l-2 px-2">
                     <HiOutlineShoppingBag />
