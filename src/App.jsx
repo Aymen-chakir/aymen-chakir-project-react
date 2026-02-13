@@ -5,6 +5,8 @@ import Contact from "./pages/contact"
 import Sale from "./pages/sale"
 import Futur from "./pages/features"
 import Bllog from "./pages/blog"
+import About from "./pages/about"
+import Signup from "./component/signup"
 function App() {
 
   return (
@@ -16,6 +18,9 @@ function App() {
        <Route path='/sale' element={<Sale/>}/>
        <Route path='/futur'element={<Futur/>} />
        <Route path="/blog" element={<Bllog/>}/>
+              <Route path="/about" element={<About/>}/>
+                  <Route path="/signup" element={<Signup/>}/>
+   
      </Routes>
     </>
   )
