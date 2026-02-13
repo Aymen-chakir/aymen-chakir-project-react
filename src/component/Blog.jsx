@@ -1,12 +1,12 @@
 import allimg from "../constant/images"
 import { motion } from "framer-motion";
-function Blog() {
+function Blog({className = ''}) {
     return (
         <div className="w-[99vw] h-[80vh]  flex flex-col justify-around items-center ">
             <div className=" text-4xl">OUR BLOG</div>
 
-            <div className="w-[80%] h-[80%] flex ">
-                <div className="flex  gap-10  ">
+            <div className="w-[80%] h-[80%]  flex ">
+                <div className={`flex  gap-10 ${className} `} >
                     <div className="w-[35%] text-gray-500 ">
                         <div className="overflow-hidden">
                             <motion.img

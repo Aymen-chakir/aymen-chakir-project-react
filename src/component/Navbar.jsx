@@ -10,7 +10,7 @@ function Nav(params) {
                 <Link to={'/'}>Home</Link>
                 <Link to={"/shop"}>Shop</Link>
                 <Link to={'/sale'}>Sale</Link>
-                <Link to={'/features'}>Features</Link>
+                <Link to={'/Futur'}>Features</Link>
                 <Link to={'/blog'}>Blog</Link>
                 <Link to={'/about'}>About</Link>
                 <Link to={"/contact"}>Contact</Link>
