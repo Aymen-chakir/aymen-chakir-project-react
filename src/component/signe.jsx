@@ -37,7 +37,6 @@ function Sign() {
 
         if (Object.keys(validationErrors).length === 0) {
 
-            // ⬅️ إضافة المستخدم
             users.push(form);
 
             console.log("All Users:", users);

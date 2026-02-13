@@ -31,7 +31,6 @@ function Login() {
             console.log("All Users:", users);
             console.log("Login Data:", form);
 
-            // ⬅️ المقارنة
             const user = users.find(
                 (u) =>
                     u.email === form.email &&
