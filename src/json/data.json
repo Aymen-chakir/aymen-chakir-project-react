@@ -3,7 +3,12 @@
         "id":"1",
         "title":"Boxy7 T-shirt with Roll Sleeve",
         "price":"50.00",
-        "image":"src/assets/images/shopy8.webp"
+        "image":"src/assets/images/shopy8.webp",
+        "category": "Women",
+         "color": "black",
+         "size": "M"
+
+
     },
     {
         "id":"2",
